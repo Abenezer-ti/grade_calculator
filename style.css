@@ -1,0 +1,66 @@
+body{
+  background-color: black;
+  color:aqua;
+}
+.well_dev{
+  display: block;
+  text-align: center;
+}
+.main_div{
+  display: block;
+  text-align: center;
+  background-color: rgb(63, 56, 56);
+  padding-top:120px;
+  padding-bottom:120px;
+  margin-left:320px;
+  margin-right:320px;
+  border-radius:10px;
+}
+.Ninput{
+margin-top:px;
+width:25em;
+height:2em;
+padding: 10px;
+border-radius:20px;
+border:none;
+margin-top:80px;
+}
+.Nlabe{
+  font-size:30px;
+  margin-right:10px;
+}
+h2{
+  margin-top:0px;
+}
+.Mlable{
+  font-size:30px;
+  margin-right:10px;
+}
+.Minput{
+  width:10em;
+  height: 3em;
+  border-radius:12px;;
+}
+.sbtun{
+  width:5em;
+  height:3em;
+  margin-left:95px;
+  border-radius:10px;
+  background-color: rgb(74, 70, 70);
+  color: white;
+  padding: 10px;
+}
+.sbtun:hover{
+ background-color: rgb(22, 21, 21);
+}
+.sbtun:active{
+  background-color: rgb(74, 70, 70);
+}
+#Sid{
+  color:rgb(116, 255, 0);
+}
+
+
+
+
+
